@@ -1,0 +1,8 @@
+location            = "canadacentral"
+environment         = "dev"
+owner               = "Pat Heard"
+description         = "Linux Docker container app"
+app_name            = "hello-world-pheard"
+app_port            = "8080"
+docker_image        = "patheard/hello-world"
+docker_image_tag    = "latest"
