@@ -1,5 +1,5 @@
 # Azure App Service with Terraform
-Simple example of deploying a single Docker container App Service using Terraform.
+Simple example of using Terraform to create an App Service running a single Docker container.
 
 ```bash
 az login
